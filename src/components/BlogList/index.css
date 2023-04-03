@@ -1,0 +1,10 @@
+.blog-list {
+  padding: 0px;
+  margin: 0px;
+}
+
+@media (min-width: 768px) {
+  .blog-list {
+    width: 70%;
+  }
+}

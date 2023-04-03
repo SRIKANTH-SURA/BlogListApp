@@ -1,0 +1,33 @@
+.blog-item {
+  list-style-type: none;
+  margin: 30px 15px;
+  border-bottom: 3px solid #bcc2ca;
+}
+
+.blog-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.blog-heading {
+  margin: 0px;
+  font-family: 'Roboto';
+  font-size: 26px;
+  color: #12022f;
+}
+
+.blog-date {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #9aa5b1;
+  font-weight: 500;
+  margin: 0;
+}
+
+.blog-description {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #9aa5b1;
+}
